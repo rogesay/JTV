@@ -1,17 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="JubiloTV.gt@SD" tvg-logo="https://i.ibb.co/R4QSfYd/Ba073d3280959c5ba7d25d40052a7349.png" group-title="Cristianos",Júbilo TV
+#EXTINF:-1 tvg-id="JubiloTV.gt@SD" tvg-logo="https://i.ibb.co/R4QSfYd/Ba073d3280959c5ba7d25d40052a7349.png" group-title="Cristianos",Júbilo TV - GT
 http://173.249.60.54/hls/jubilotv.m3u8
+#EXTINF:-1 tvg-id="RhemaTV.gt@SD" tvg-logo="https://i.imgur.com/5o821rT.png" group-title="Cristianos",Rhema TV - GT
+https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr@SD" tvg-logo="https://i.ibb.co/kVcmXbpd/image.png" group-title="Cristianos",Enlace - CR
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xqbFLWML/image.png" group-title="Cristianos",Canal 27
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xqbFLWML/image.png" group-title="Cristianos",Canal 27 - GT
 https://ch1-c27.duin.dev/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="AmigosTVChiquimula.gt@SD" tvg-logo="https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png" group-title="Cristianos",Amigos TV Chiquimula
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sd0rqwk2/image.png" group-title="Cristianos",CCI TV - HR
+https://livestream.mediacci.com/ccitv/index.m3u8
+#EXTINF:-1 tvg-id="HosannaVision.pa@SD" tvg-logo="https://i.ibb.co/B5BfS7xd/image.png" group-title="Cristianos",Hosanna Vision - PA
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
+#EXTINF:-1 tvg-id="AmigosTVChiquimula.gt@SD" tvg-logo="https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png" group-title="Cristianos",Amigos TV Chiquimula - GT
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
-#EXTINF:-1 tvg-id="AmigosTVChiquimula.gt@SD" tvg-logo="https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png" group-title="Guatemala",Amigos TV Chiquimula
-https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
-#EXTINF:-1 tvg-id="Canal30TVBethel.gt@SD" tvg-logo="https://i.imgur.com/PP4U1JL.png" group-title="Cristianos",Canal 30 TV Bethel
-https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
-#EXTINF:-1 tvg-id="Canal30TVBethel.gt@SD" tvg-logo="https://i.imgur.com/PP4U1JL.png" group-title="Guatemala",Canal 30 TV Bethel
+#EXTINF:-1 tvg-id="Canal30TVBethel.gt@SD" tvg-logo="https://i.imgur.com/PP4U1JL.png" group-title="Cristianos",Canal 30 TV Bethel - GT
 https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
 #EXTINF:-1 tvg-id="IglesiaDelCamino.gt@SD" tvg-logo="https://i.imgur.com/vHfb3Z4.png" group-title="Cristianos",Iglesia Del Camino
 http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
@@ -21,8 +23,6 @@ https://s.emisoras.tv:8081/penielkids/index.m3u8
 https://s.emisoras.tv:8081/penielmusical/index.m3u8
 #EXTINF:-1 tvg-id="PenielTVBibliaAbierta.gt@SD" tvg-logo="https://i.ibb.co/j3gGwYk/D64575438be2a3a54fdf64d4035ade48.png" group-title="Cristianos",Peniel TV Biblia Abierta
 https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
-#EXTINF:-1 tvg-id="RhemaTV.gt@SD" tvg-logo="https://i.imgur.com/5o821rT.png" group-title="Cristianos",Rhema TV
-https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
 #EXTINF:-1 tvg-id="865" tvg-logo="https://cdn.m3u.cl/logo/865_Alcance_TV.png" group-title="Cristianos",Alcance TV | MX
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Guatemala",Canal Antigua
@@ -371,8 +371,6 @@ https://hdbox.chunklistv.com/live?stream=tvone
 http://51.222.9.192:3589/stream/play.m3u8
 #EXTINF:-1 tvg-id="FabulosaEstereo1005FM.pa@SD" tvg-logo="" group-title="Panama",Fabulosa Estéreo 100.5 FM
 https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
-#EXTINF:-1 tvg-id="HosannaVision.pa@SD" tvg-logo="https://i.ibb.co/B5BfS7xd/image.png" group-title="Cristianos",Hosanna Vision - PA
-https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Planet1009FM.pa@SD" tvg-logo="" group-title="Panama",Planet 100.9 FM
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioAncon.pa@SD" tvg-logo="" group-title="Panama",Radio Ancón
