@@ -13,7 +13,7 @@ https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
 https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
 #EXTINF:-1 tvg-id="IglesiaDelCamino.gt@SD" tvg-logo="https://i.imgur.com/vHfb3Z4.png" group-title="Cristianos",Iglesia Del Camino
 http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
-#EXTINF:-1 tvg-id="PenielKY.gt@SD" tvg-logo="https://i.imgur.com/YtPRKmS.png" group-title="Cristianos",Peniel Kids & Young
+#EXTINF:-1 tvg-id="PenielKY.gt@SD" tvg-logo="https://i.imgur.com/YtPRKmS.png" group-title="Infantil",Peniel Kids & Young - GT
 https://s.emisoras.tv:8081/penielkids/index.m3u8
 #EXTINF:-1 tvg-id="PenielMusical.gt@SD" tvg-logo="https://i.imgur.com/IFQbGEf.png" group-title="Cristianos",Peniel Musical
 https://s.emisoras.tv:8081/penielmusical/index.m3u8
@@ -271,7 +271,7 @@ https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 https://s.emisoras.tv:8081/girasoltv/index.m3u8
 #EXTINF:-1 tvg-id="KerussoTV.honduras" tvg-logo="" group-title="Cristianos",Kerusso TV - HN
 https://s.emisoras.tv:8081/kerussotv/index.m3u8
-#EXTINF:-1 tvg-id="LencaTV.honduras" tvg-logo="" group-title="Cristianos",Lenca Television Canal 40 - HN
+#EXTINF:-1 tvg-id="LencaTV.honduras" tvg-logo="" group-title="Honduras",Lenca Television Canal 40 - HN
 https://lencatelevision.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="LitoralAtlanticoHD.honduras" tvg-logo="" group-title="Honduras",Litoral Atlántico HD
 https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8
@@ -297,18 +297,12 @@ https://s.emisoras.tv:8081/tvcopan/index.m3u8
 https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
 #EXTINF:-1 tvg-id="OPA.cr@SD" tvg-logo="" group-title="Costa Rica",¡OPA
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
-#EXTINF:-1 tvg-id="AntenaSeisTV.cr@SD" tvg-logo="" group-title="Costa Rica",Antena Seis TV
+#EXTINF:-1 tvg-id="AntenaSeisTV.cr@SD" tvg-logo="" group-title="Deportes",Antena Seis TV - CR
 https://video1.azulstream.com:8081/antenaseistv/index.m3u8
 #EXTINF:-1 tvg-id="BestClasicosTV.cr@SD" tvg-logo="" group-title="Costa Rica",BestClasicosTV
 https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8
-#EXTINF:-1 tvg-id="Canal1.cr@SD" tvg-logo="" group-title="Costa Rica",Canal 1
-https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 #EXTINF:-1 tvg-id="Canal3KMKTV.cr@SD" tvg-logo="" group-title="Costa Rica",Canal 3
 https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
-#EXTINF:-1 tvg-id="Canal4.cr@SD" tvg-logo="" group-title="Costa Rica",Canal 4
-https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="Canal6.cr@SD" tvg-logo="" group-title="Costa Rica",Canal 6
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Canal8.cr@SD" tvg-logo="" group-title="Costa Rica",Canal 8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="Canal10.cr@SD" tvg-logo="" group-title="Costa Rica",Canal 10
@@ -319,7 +313,7 @@ http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 https://latamvdo.com:3870/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="CartagoMediosTV.cr@SD" tvg-logo="" group-title="Costa Rica",Cartago Medios TV
 https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8
-#EXTINF:-1 tvg-id="ColosalTV.cr@SD" tvg-logo="" group-title="Costa Rica",Colosal TV
+#EXTINF:-1 tvg-id="ColosalTV.cr@SD" tvg-logo="" group-title="Deportes",Colosal TV - CR
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="CostaRicaChannel.cr@SD" tvg-logo="" group-title="Costa Rica",Costa Rica Channel
 https://video0.rogohosting.com:19360/8006/8006.m3u8
@@ -327,16 +321,8 @@ https://video0.rogohosting.com:19360/8006/8006.m3u8
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GAMTVcr.cr@SD" tvg-logo="" group-title="Costa Rica",GAMTV.cr
 https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
-#EXTINF:-1 tvg-id="GarabitoTV.cr@SD" tvg-logo="" group-title="Costa Rica",Garabito TV
-https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 #EXTINF:-1 tvg-id="GexTV.cr@HD" tvg-logo="" group-title="Costa Rica",Gex TV
 https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
-#EXTINF:-1 tvg-id="IQChannel.cr@SD" tvg-logo="" group-title="Costa Rica",IQ Channel
-https://rtmp.info/iqtv/envivo/playlist.m3u8
-#EXTINF:-1 tvg-id="LosSantosTV.cr@SD" tvg-logo="" group-title="Costa Rica",Los Santos TV
-https://lstv.duckdns.org:449/hls/lstv.m3u8
-#EXTINF:-1 tvg-id="NicoyaTV.cr@SD" tvg-logo="" group-title="Costa Rica",Nicoya TV
-https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 #EXTINF:-1 tvg-id="NorteInformativoTV.cr@SD" tvg-logo="" group-title="Costa Rica",Norte Informativo TV
 https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-id="QuinceUCR.cr@SD" tvg-logo="" group-title="Costa Rica",Quince UCR
@@ -347,8 +333,6 @@ https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8
 https://rtmp.info/sanjosetv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="SarapiquiTV.cr@SD" tvg-logo="" group-title="Costa Rica",Sarapiqui TV
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
-#EXTINF:-1 tvg-id="SarapiquiTV.cr@SD" tvg-logo="" group-title="Costa Rica",Sarapiqui TV
-https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1 tvg-id="SuperCable.cr@SD" tvg-logo="" group-title="Costa Rica",Super Cable
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 #EXTINF:-1 tvg-id="TDtv.cr@SD" tvg-logo="" group-title="Costa Rica",TDtv
@@ -357,20 +341,10 @@ https://cloudvideo.servers10.com:8081/8230/index.m3u8
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleBrunca.cr@SD" tvg-logo="" group-title="Costa Rica",TeleBrunca
 https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleredTelevision.cr@SD" tvg-logo="" group-title="Costa Rica",Telered Television
-https://k20.usastreams.com:8081/telered/index.m3u8
 #EXTINF:-1 tvg-id="TeleSURCostaRica.cr@SD" tvg-logo="" group-title="Costa Rica",TeleSUR Costa Rica
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 #EXTINF:-1 tvg-id="TVSurCanal9.cr@SD" tvg-logo="" group-title="Costa Rica",TV Sur Canal 9
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSurCanal14.cr@SD" tvg-logo="" group-title="Costa Rica",TV Sur Canal 14
-https://k20.usastreams.com:8081/tvsur/index.m3u8
-#EXTINF:-1 tvg-id="UrbanoTV.cr@SD" tvg-logo="" group-title="Costa Rica",Urbano TV
-https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
-#EXTINF:-1 tvg-id="VideoTourChannel.cr@SD" tvg-logo="" group-title="Costa Rica",Video Tour Channel
-http://k4.usastreams.com/videotour/videotour/playlist.m3u8
-#EXTINF:-1 tvg-id="VoiceOverRadioTV.cr@SD" tvg-logo="" group-title="Costa Rica",VoiceOver Radio
-https://cloudvideo.servers10.com:8081/8198/index.m3u8
 #EXTINF:-1 tvg-id="ZurquiTV.cr@SD" tvg-logo="" group-title="Costa Rica",Zurquí TV
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 #EXTINF:-1 tvg-id="TeleMas.cr@SD" tvg-logo="" group-title="Costa Rica",TeleMas
@@ -460,13 +434,9 @@ https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal2AlpavisionNeiva.co@SD" tvg-logo="" group-title="Colombia",Canal 2 Alpavisión Neiva  - CO
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal8TVPlus.co@SD" tvg-logo="" group-title="Colombia",Canal 8 TV+  - CO
-https://movil.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:-1 tvg-id="Canal8TVPlus.co@SD" tvg-logo="" group-title="Colombia",Canal 8 TV+  - CO
 https://video.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 tvg-id="Canal14Codazzi.co@SD" tvg-logo="" group-title="Colombia",Canal 14 Codazzi  - CO
 https://eu1.servers10.com:8081/8056/index.m3u8
-#EXTINF:-1 tvg-id="Canal55TelemoriscoTV.co@SD" tvg-logo="" group-title="Colombia",Canal 55 Telemorisco TV  - CO
-http://canal.mediaserver.com.co/live/telemorisco.m3u8
 #EXTINF:-1 tvg-id="CanalMasTelevision.co@SD" tvg-logo="" group-title="Colombia",Canal Más Televisión  - CO
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 tvg-id="CanalOracionConSon.co@SD" tvg-logo="" group-title="Cristianos",Canal Oración Con Son  - CO
@@ -475,8 +445,6 @@ https://canal.mediaserver.com.co/live/oracionconson.m3u8
 https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNCPereira.co@SD" tvg-logo="" group-title="Colombia",CNC Pereira  - CO
 https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8
-#EXTINF:-1 tvg-id="CNCSantanderdeQuilichao.co@SD" tvg-logo="" group-title="Colombia",CNC Santander de Quilichao  - CO
-https://movil.ejeserver.com/live/cncsantander.m3u8
 #EXTINF:-1 tvg-id="Eduvision.co@SD" tvg-logo="" group-title="Colombia",Eduvision  - CO
 https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
 #EXTINF:-1 tvg-id="ElMundodelCampo.co@SD" tvg-logo="" group-title="Colombia",El Mundo del Campo  - CO
@@ -491,19 +459,13 @@ http://138.186.23.7:22281/nstv/nstv/playlist.m3u8
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
 #EXTINF:-1 tvg-id="SenalColombia.co@SD" tvg-logo="" group-title="Noticias",Senal Colombia  - CO
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleislas.co@SD" tvg-logo="" group-title="Colombia",Teleislas  - CO
-https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
-#EXTINF:-1 tvg-id="Telepacifico.co@SD" tvg-logo="" group-title="Colombia",Telepacífico  - CO
-https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 #EXTINF:-1 tvg-id="TuUniversoTV.co@SD" tvg-logo="" group-title="Cristianos",Tu Universo TV  - CO
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 #EXTINF:-1 tvg-id="UMCTV.co@SD" tvg-logo="" group-title="Colombia",UMC TV  - CO
 https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesangil.co@SD" tvg-logo="" group-title="Colombia",Telesangil  - CO
 https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalPyC.co@SD" tvg-logo="" group-title="Colombia",Canal PyC  - CO
+#EXTINF:-1 tvg-id="CanalPyC.co@SD" tvg-logo="" group-title="Noticias",Canal PyC  - CO
 https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalCHD.co@SD" tvg-logo="" group-title="Colombia",Canal  - CO
 https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
-
-
