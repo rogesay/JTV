@@ -585,3 +585,5 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8?er
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_P511PDS00166498.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-logo="https://i.ibb.co/PsYSSmSr/image.png" group-title="Deportes",Claro Sports - MX
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-logo="" group-title="Culturales",Canal Once - MX
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
