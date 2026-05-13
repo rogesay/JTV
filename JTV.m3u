@@ -581,3 +581,5 @@ https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-20.playlist.m3u8
 #EXTINF:-1 tvg-id="DW.es" tvg-logo="https://i.ibb.co/cKBL2Ddp/image.png" group-title="Noticias",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8?ern=0
+#EXTINF:-1 tvg-id="RTVE24Horas.es" tvg-logo="https://i.ibb.co/qYV9ZsDh/image.png" group-title="Noticias",RTVE 24 Horas - ES
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_P511PDS00166498.m3u8
