@@ -579,5 +579,5 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF:-1 tvg-id="CineAr.ar@SD" tvg-logo="" group-title="Peliculas",Cine.Ar - AR
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-20.playlist.m3u8
-#EXTINF:-1 tvg-id="DWSpanish.de@SD" https://i.ibb.co/cKBL2Ddp/image.png="" group-title="Noticias",DW Español - DE
+#EXTINF:-1 tvg-id="DW.es" tvg-logo="https://i.ibb.co/cKBL2Ddp/image.png" group-title="Noticias",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8?ern=0
