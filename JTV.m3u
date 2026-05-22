@@ -31,8 +31,6 @@ https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?Playl
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Q7R43DR1/image.png" group-title="Noticias",Canal Antigua
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1Yq6rp0q/image.png" group-title="Guatemala",Guatemala Plus - GT
-https://live-ak.vimeocdn.com/exp=1779396696~acl=%2F4039b4de-ebe3-4519-a498-d6e547659ff6_fmp4%2F%2A~hmac=57af524fbeb89052f0b2e745224e1f2cba6b019b5b9cddccd939c0e85a1bdc48/4039b4de-ebe3-4519-a498-d6e547659ff6_fmp4/avc/hls.m3u8
 #EXTINF:-1 tvg-id="Canal6Panadish.gt@SD" tvg-logo="https://i.imgur.com/KJWNPiz.jpg" group-title="Guatemala",Canal 6 Panadish
 https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BarbeTV.gt@SD" tvg-logo="https://i.imgur.com/2Sekew2.png" group-title="Guatemala",Canal 9 Barbe TV
