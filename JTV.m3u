@@ -4,7 +4,7 @@ http://173.249.60.54/hls/jubilotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1tk96v7s/image.png" group-title="Cristianos",Presencia TV - GT
 https://5bf8041cb3fed.streamlock.net/presenciatv/presenciatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XkJRnj8Y/image.png" group-title="Guatemala",Canal 3 - GT
-https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/medialist_5900814650867226228_hls.m3u8
+https://d3jocgwjuhw91y.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="RhemaTV.gt@SD" tvg-logo="https://i.imgur.com/5o821rT.png" group-title="Cristianos",Rhema TV - GT
 https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Mk9vPvDL/image.png" group-title="Cultura",Canal 5 Sololá - GT
@@ -12,7 +12,7 @@ https://green-math-ee6d.stream-gt.workers.dev/live/canal5solola.m3u8
 #EXTINF:-1 tvg-id="Canal6Panadish.gt@SD" tvg-logo="https://i.imgur.com/KJWNPiz.jpg" group-title="Guatemala",Canal 6 Panadish
 https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GfHtb1hy/image.png" group-title="Sin grupo",Canal 7
-https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/medialist_5900814650867226228_hls.m3u8
+https://d1zq2gydd8y59v.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr@SD" tvg-logo="https://i.ibb.co/kVcmXbpd/image.png" group-title="Cristianos",Enlace - CR
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sd0rqwk2/image.png" group-title="Cristianos",CCI TV - HR
@@ -44,7 +44,7 @@ https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Q7R43DR1/image.png" group-title="Noticias",Canal Antigua
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Y4YdF1qz/image.png" group-title="Guatemala",TN23 - GT
-https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/medialist_5900814650867226228_hls.m3u8
+https://d2b5h5wyivfnfl.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/ts:abr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yc4WLPCJ/logo-ENTV.png" group-title="Cristianos",ENTV - GT
 https://lbgo.bozztv.com/ssh101/ssh101/entv/playlist.m3u8
 #EXTINF:-1 tvg-id="MultivisionCanal3.gt@SD" tvg-logo="https://i.imgur.com/6bdj2BV.jpg" group-title="Guatemala",Multivisión Canal 3
