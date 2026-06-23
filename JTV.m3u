@@ -11,8 +11,8 @@ https://green-math-ee6d.stream-gt.workers.dev/live/canal4quiche.m3u8
 https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal6Panadish.gt@SD" tvg-logo="https://i.imgur.com/KJWNPiz.jpg" group-title="Guatemala",Canal 6 Panadish - GT
 https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GfHtb1hy/image.png" group-title="Sin grupo",Canal 7 - GT
-https://d1zq2gydd8y59v.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/j9QkbGCT/image.png" group-title="Local",Luna Vision - GT
+https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/W4ZGtWy6/image.png" group-title="Local",TDS - Sololá - GT
 https://lbgo.bozztv.com/ssh101/ssh101/tdssololagt/playlist.m3u8
 #EXTINF:-1 tvg-id="BarbeTV.gt@SD" tvg-logo="https://i.imgur.com/2Sekew2.png" group-title="Guatemala",Canal 9 Barbe TV
