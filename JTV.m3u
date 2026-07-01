@@ -24,7 +24,7 @@ http://190.61.101.11:7050/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sd0rqwk2/image.png" group-title="Cristianos",CCI TV - HR
 https://livestream.mediacci.com/ccitv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fk5LtNv2/image.png" group-title="Guatemala",Canal 13 - GT
-http://190.61.101.11:7050/play/a07f/index.m3u8
+http://45.5.119.43:4000/play/a0h3/index.m3u8
 #EXTINF:-1 tvg-id="HosannaVision.pa@SD" tvg-logo="https://i.ibb.co/B5BfS7xd/image.png" group-title="Cristianos",Hosanna Vision - PA
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
 #EXTINF:-1 tvg-id="AmigosTVChiquimula.gt@SD" tvg-logo="https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png" group-title="Cristianos",Amigos TV Chiquimula - GT
