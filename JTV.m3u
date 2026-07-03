@@ -79,7 +79,7 @@ https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 #EXTINF:-1 tvg-id="SILTV.gt@SD" tvg-logo="https://i.imgur.com/tWZXRVu.png" group-title="Guatemala",SIL TV
 https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PGnrcsHP/image.png" group-title="Cristianos",Unsión TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PGnrcsHP/image.png" group-title="Cristianos",Unsión TV - GT
 https://lbgo.bozztv.com/ssh101/ssh101/unsiontv/playlist.m3u8
 #EXTINF:-1 tvg-id="SolTV.gt@SD" tvg-logo="https://i.ibb.co/YXYv8sf/logo-soltv2.png" group-title="Guatemala",Sol TV
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
