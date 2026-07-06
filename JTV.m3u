@@ -79,7 +79,7 @@ https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 #EXTINF:-1 tvg-id="SILTV.gt@SD" tvg-logo="https://i.imgur.com/tWZXRVu.png" group-title="Guatemala",SIL TV
 https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PGnrcsHP/image.png" group-title="Cristianos",Unsión TV - GT
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fYGysj7m/image.png" group-title="Cristianos",Unsión TV - GT
 https://lbgo.bozztv.com/ssh101/ssh101/unsiontv/playlist.m3u8
 #EXTINF:-1 tvg-id="SolTV.gt@SD" tvg-logo="https://i.ibb.co/YXYv8sf/logo-soltv2.png" group-title="Guatemala",Sol TV
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
@@ -197,6 +197,8 @@ https://servilive.com:3263/live/channel12live.m3u8
 https://servilive.com:3879/live/telesaltillolive.m3u8
 #EXTINF:-1 tvg-id="TeleYucatan.mx@SD" tvg-logo="" group-title="Mexico",Tele Yucatan
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/39P9KQLQ/image.png" group-title="Peliculas",Totovisión - GT
+https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
 #EXTINF:-1 tvg-id="TeleFormula.mx@SD" tvg-logo="" group-title="Mexico",TeleFórmula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="XEWHTDT.mx@SD" tvg-logo="" group-title="Mexico",Telemax
