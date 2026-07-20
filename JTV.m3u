@@ -20,7 +20,7 @@ https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr@SD" tvg-logo="https://i.ibb.co/kVcmXbpd/image.png" group-title="Cristianos",Enlace - CR
 https://livecdnusa.enlace.plus/enlace/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zTQ4pjyC/image.png" group-title="Guatemala",Canal 11 - GT
-http://168.228.44.241:9998/play/a02w/index.m3u8
+http://177.53.153.21:8000/play/a130/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sd0rqwk2/image.png" group-title="Cristianos",CCI TV - HR
 https://livestream.mediacci.com/ccitv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fk5LtNv2/image.png" group-title="Guatemala",Canal 13 - GT
