@@ -50,7 +50,7 @@ https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Q7R43DR1/image.png" group-title="Noticias",Canal Antigua - GT
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TB4YLRXz/image.png" group-title="Sin grupo",Guatevisión - GT
-http://45.5.119.43:4000/play/a0fw/index.m3u8
+http://200.229.147.210:9999/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="JubiloTV 1.gt@SD" tvg-logo="https://i.ibb.co/Q7BKVkmM/image.png" group-title="Cristianos",Júbilo TV 2 - GT
 https://lbgo.bozztv.com/ssh101/ssh101/jubilotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xqbFLWML/image.png" group-title="Cristianos",Canal 27 - GT
