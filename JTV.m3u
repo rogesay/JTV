@@ -46,7 +46,7 @@ https://d2b5h5wyivfnfl.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yc4WLPCJ/logo-ENTV.png" group-title="Cristianos",ENTV - GT
 https://lbgo.bozztv.com/ssh101/ssh101/entv/playlist.m3u8
 #EXTINF:-1 tvg-id="JubiloTV.gt@SD" tvg-logo="https://i.ibb.co/Q7BKVkmM/image.png" group-title="Cristianos",Júbilo TV - GT
-http://173.249.60.54/hls/jubilotv.m3u8
+http://163.192.159.156:8080/live/jubilotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Q7R43DR1/image.png" group-title="Noticias",Canal Antigua - GT
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TB4YLRXz/image.png" group-title="Sin grupo",Guatevisión - GT
